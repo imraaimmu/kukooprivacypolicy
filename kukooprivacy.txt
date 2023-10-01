@@ -121,8 +121,13 @@ customize Our Service. The information may be uploaded to the Company's
 servers and/or a Service Provider's server or it may be simply stored on Your
 device.
 
-You can enable or disable access to this information at any time, through Your
-Device settings.
+Important privacy details regarding your location:
+ 1. We collect precise and approximate location
+ 2. Your location will be used to show your current location to the kukoo customers
+ 3. Once you install this app and allow location access, your location will be used even in background which means, even when you are not using the app.
+ 4. if you dont want to share the location, you cannot use the app because this is the main feature of the app.
+ 5. Please understand this privacy details carefully to use this app
+ 6. Your location data is stored in a safe server and transmitted safely to the customers
 
 Use of Your Personal Data  
 -------------------------
